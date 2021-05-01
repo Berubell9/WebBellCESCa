@@ -1,0 +1,25 @@
+*{
+    background-color: antiquewhite;
+    background-size: cover;
+    margin: 15px;
+}
+.hello{
+    text-align: center;
+    font-family: 'Itim', cursive;
+}
+.hello img{
+    border-radius: 30%;
+}
+.hello h1{
+    color: #C0392B ;
+}
+.hello p{
+    color: #D98880 ;
+    font-size: 20px;
+}
+.hello button{
+    background-color: #fff;
+}
+.hello textarea{
+    background-color: #fff;
+}
